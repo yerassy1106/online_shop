@@ -3,7 +3,7 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
-  padding: 20px;      /* Расстояние между карточками */
+  padding: 20px;     
 }
 img{
     width:100px;
@@ -20,7 +20,7 @@ img{
   cursor: pointer;
 }
 .card:hover {
-  transform: scale(1.05); /* Увеличивается на 5% */
+  transform: scale(1.05); 
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
